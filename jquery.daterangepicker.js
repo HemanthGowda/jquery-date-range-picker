@@ -273,7 +273,31 @@
 			'default-less' : 'Merci de choisir une intervalle inférieure %d jours',
 			'default-range' : 'Merci de choisir une intervalle comprise entre %d et %d jours',
 			'default-default': 'Merci de choisir une date'
-		}
+		},
+        	'ja':
+        	{
+		        'week-6' : '金',
+            		'week-7' : '土',
+	            	'month-name': ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
+	            	'shortcuts' : 'クイック選択',
+	            	'past': '過去',
+	            	'following':'将来',
+	            	'previous' : '&nbsp;&nbsp;&nbsp;',
+	            	'prev-week' : '先週、',
+	            	'prev-month' : '先月',
+	            	'prev-year' : '昨年',
+	            	'next': '&nbsp;&nbsp;&nbsp;',
+	            	'next-week':'来週',
+	            	'next-month':'来月',
+	            	'next-year':'来年',
+	            	'less-than' : '日付の範囲は ％d 日以上にすべきではありません',
+	            	'more-than' : '日付の範囲は ％d 日を下回ってはいけません',
+	            	'default-more' : '％d 日よりも長い期間を選択してください',
+	            	'default-less' : '％d 日未満の期間を選択してください',
+	            	'default-range' : '％d と％ d日の間の日付範囲を選択してください',
+	            	'default-single':'日付を選択してください',
+	            	'default-default': '日付範囲を選択してください'
+        	}
 	};
 
 
